@@ -1,0 +1,5 @@
+{
+  "name": "MediSense AI",
+  "description": "A clinical decision support system that analyzes patient symptoms, medical history, and lab results to suggest potential diagnoses and recommend next steps.",
+  "requestFramePermissions": []
+}
